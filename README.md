@@ -1,2 +1,2 @@
 # FTEC5660
-All scripts are defaultly setted to be run in local env. If needing to run in colab, plz commemt and uncomment some corresponding lines.
+All scripts are defaultly setted to be run in local env. If needing to run in colab, plz comment and uncomment some corresponding lines.
